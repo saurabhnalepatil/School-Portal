@@ -1,0 +1,26 @@
+.navbar-item {
+    color: #77A28B;
+    padding-inline: 1rem;
+    font-weight: 500;
+    font-size: 1.3rem;
+    filter: drop-shadow(0 5px 4px rgba(0, 0, 0, 0.4));
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo-container img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+.company-name {
+    margin-left: 10px;
+}
+
+.navbar a {
+    color: #626262;
+}
