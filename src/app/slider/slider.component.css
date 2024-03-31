@@ -1,3 +1,9 @@
-.carousel-slide{
+.carousel-slide {
     height: 600px;
+}
+
+@media (max-width: 767.98px) {
+    .carousel-slide {
+        height: 200px;
+    }
 }

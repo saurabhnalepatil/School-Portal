@@ -204,7 +204,43 @@
 
 
 
-@media (max-width: 767.98px) {}
+@media (max-width: 767.98px) {
+    .card img {
+        height: 5.3rem;
+        width: 5.3rem;
+    }
+
+    .card {
+        min-width: 250px;
+        min-height: 200px;
+    }
+
+    .about-image2 {
+        margin: -120px 0 0;
+        z-index: 3;
+    }
+
+    .contact-us {
+        height: fit-content;
+        color: #000;
+        background: linear-gradient(-90deg, #31b978 0%, #1ab69d 100%) repeat-y;
+    }
+
+    .contact-us img {
+        display: none;
+    }
+
+    .contact-us h1,
+    h4 {
+        font-size: medium;
+    }
+
+    .or {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+}
 
 @media (min-width: 768px) and (max-width: 1199.98px) {
 
