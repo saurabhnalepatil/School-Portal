@@ -240,6 +240,16 @@
         height: 40px;
         font-size: 20px;
     }
+
+    .Students {
+        margin-left: -25px;
+    }
+
+    .labels p {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 500;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1199.98px) {
