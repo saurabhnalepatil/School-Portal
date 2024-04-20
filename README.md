@@ -5,7 +5,7 @@
 # **Demo 🎥**
 ![school](https://github.com/saurabhnalepatil/School-Portal/assets/95145125/e1e48e47-cc4b-4899-831b-9dc956fc5f13)
 
-# View live preview [here](https://portfoliosaurabhnale.vercel.app/).
+# View live preview [here](https://school-practice-web.vercel.app).
 # **Table of Contents 📜**
 - **[Sections](#section)**
 - **[Demo](#demo)**
