@@ -3,7 +3,7 @@
 ## Welcome to [School Name] Portal – Your Gateway to Education Excellence! Discover a user-friendly platform that brings together students, parents, teachers, and administrators to enhance learning outcomes and foster collaboration.
 
 # **Demo 🎥**
-![image](https://github.com/saurabhnalepatil/portfolio/assets/95145125/27eabea3-dfd6-416d-82eb-cbc3890032c9)
+![school](https://github.com/saurabhnalepatil/School-Portal/assets/95145125/e1e48e47-cc4b-4899-831b-9dc956fc5f13)
 
 # View live preview [here](https://portfoliosaurabhnale.vercel.app/).
 # **Table of Contents 📜**
